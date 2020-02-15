@@ -1,6 +1,4 @@
 # hello-world
-Just another repository
+Just a repository
 
-Hi Humans!
-
-Hubot here, I like Python.
+I like ..
